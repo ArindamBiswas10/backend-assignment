@@ -142,7 +142,7 @@ Portfolio
 
 Backend server + worker running
 
-APIs tested via Postman
+APIs tested via Postman and all routes checked
 
-Screenshots attached
+Screenshots attached 
 
